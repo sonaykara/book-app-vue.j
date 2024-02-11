@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "author": "George Orwell",
+      "bookName": "1984",
+      "description": "A dystopian novel set in a future society where the government controls every aspect of people's lives.",
+      "summary": "1984 is a dystopian novel written by Orwell, criticizing totalitarian regimes and addressing the themes of individual freedom and free thought. The book is set in 1984 in Oceania, a totalitarian regime where the government controls every aspect of people's lives. The main character, Winston Smith, begins to question the totalitarian system and embarks on a quest for freedom.",
+      "image": "https://picsum.photos/400/300?random=1"
+    },
+    {
+      "id": 2,
+      "author": "Fyodor Dostoevsky",
+      "bookName": "Crime and Punishment",
+      "description": "A psychological thriller that explores the mind of a young man who commits a crime and the consequences he faces.",
+      "summary": "Crime and Punishment is a famous psychological novel by Fyodor Dostoevsky. The novel focuses on Raskolnikov, a young man who commits a crime and subsequently experiences the torment of conscience and its consequences. It examines how Raskolnikov's inner world changes under the weight of his crime and his internal conflicts regarding whether or not to confess.",
+      "image": "https://picsum.photos/400/300?random=2"
+    },
+    {
+      "id": 3,
+      "author": "J.K. Rowling",
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "description": "The first book in the Harry Potter series, which follows the journey of a young wizard.",
+      "summary": "Harry Potter and the Philosopher's Stone is the first book in J.K. Rowling's Harry Potter series. The book begins with Harry Potter, an orphaned child, being accepted to Hogwarts School of Witchcraft and Wizardry and discovering the magical world. As Harry learns about his own magical abilities and that his parents were wizards, he also learns of the return of the great evil, Lord Voldemort.",
+      "image": "https://picsum.photos/400/300?random=3"
+    },
+    {
+      "id": 4,
+      "author": "Jane Austen",
+      "bookName": "Pride and Prejudice",
+      "description": "A classic romance novel set in 19th-century England, revolving around the lives of the Bennet sisters and their pursuit of love.",
+      "summary": "Pride and Prejudice is a classic romance novel by Jane Austen. The novel is set in 19th century England and follows the lives and pursuit of love of the Bennet sisters. It particularly focuses on the romantic relationship between the main character, Elizabeth Bennet, and Mr. Darcy, while also addressing societal class differences.",
+      "image": "https://picsum.photos/400/300?random=4"
+    },
+    {
+      "id": 5,
+      "author": "Ernest Hemingway",
+      "bookName": "The Old Man and the Sea",
+      "description": "A novella depicting the struggle between an aging fisherman and a giant marlin in the Gulf Stream.",
+      "summary": "The Old Man and the Sea is a novella by Ernest Hemingway. The book depicts the struggle of Santiago, an aging fisherman, with a giant marlin in the Gulf Stream, and his inner battle during this struggle. Santiago tests his physical and spiritual strength alone at sea.",
+      "image": "https://picsum.photos/400/300?random=5"
+    },
+    {
+      "id": 6,
+      "author": "Leo Tolstoy",
+      "bookName": "War and Peace",
+      "description": "An epic novel set against the backdrop of Napoleonic wars, focusing on the lives of several Russian aristocratic families.",
+      "summary": "War and Peace is an epic novel by Leo Tolstoy. The book is set against the backdrop of the Napoleonic Wars and focuses on the lives of various Russian aristocratic families. While exploring themes such as war, love, honor, and loyalty, it provides a detailed portrayal of the social, political, and cultural milieu of the time.",
+      "image": "https://picsum.photos/400/300?random=6"
+    },
+    {
+      "id": 7,
+      "author": "Mark Twain",
+      "bookName": "Adventures of Huckleberry Finn",
+      "description": "A coming-of-age novel that follows the journey of Huck Finn and Jim, a runaway slave, as they navigate the Mississippi River.",
+      "summary": "Adventures of Huckleberry Finn by Mark Twain follows Huck Finn and runaway slave Jim on their journey down the Mississippi River.",
+      "image": "https://picsum.photos/400/300?random=7"
+    },
+    {
+      "id": 8,
+      "author": "Gabriel Garcia Marquez",
+      "bookName": "One Hundred Years of Solitude",
+      "description": "A magical realist novel that chronicles the Buendia family over seven generations in the fictional town of Macondo.",
+      "summary": "One Hundred Years of Solitude is a magical realist novel by Gabriel Garcia Marquez. The book is set in the fictional town of Macondo and chronicles the lives of the Buendia family over seven generations. Garcia Marquez tells a story filled with supernatural elements while providing an in-depth look at Latin American history, politics, and society.",
+      "image": "https://picsum.photos/400/300?random=8"
+    }
+  ]
+  
