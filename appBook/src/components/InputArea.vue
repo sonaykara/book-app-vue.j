@@ -8,7 +8,7 @@
         </div>
 
         <div class="d-flex flex-wrap justify-content-around align-items-center mt-5 container">
-            <sectionArea class="col-3 mb-4" v-for="book in filtered" :key="book.id" :book="book"></sectionArea>
+            <sectionArea class="col-3 mb-4" v-for="book in filtered" :key="book.id" :book="book" @delete-book ="deleteBookHandler"></sectionArea>
         </div>
         
         
@@ -44,8 +44,14 @@ import sectionArea from './SecitonArea.vue'
             
               return jsonString.toLowerCase().match(this.seacrhText.toLowerCase())
               
-          })
-      }
+                })
+            }
+        },
+
+        methods: {
+            deleteBookHandler (bookId) {
+                this.books = this.books.filter(book => book.id !== bookId)
+            }
         }
         
     }
