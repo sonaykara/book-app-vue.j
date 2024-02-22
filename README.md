@@ -14,7 +14,7 @@ This project is a web application developed with Vue.js and Vue Router for navig
 
 
 
-
+<br>
 <img src  ="https://github.com/sonaykara/number-of-characters-validate-js/assets/108528598/005d880e-53dd-4bf6-9402-b1e5d5d35e8a" width="1200" height="500">
 
 
