@@ -1,5 +1,5 @@
 # book-app-vue.j
-This project is a web application developed with Vue.js and Vue Router for navigation between pages. It displays book information stored in a JSON file. Users can search for books and view detailed information about each book.
+This project is a web application developed with Vue.js and Vue Router for navigation between pages. It displays book information stored in a JSON file. Users can search for books and view detailed information about each book. It is developed using Vue.js, Scss and Html.
 
 <br>
 
