@@ -19,7 +19,7 @@ This project is a web application developed with Vue.js and Vue Router for navig
 
 
 
-<br>
+<br><br>
 <img margin-top = "25px" src =  "https://github.com/sonaykara/number-of-characters-validate-js/assets/108528598/43060663-d30c-4faf-abb4-e955b5b33fd1" width="1200" height = "500">
 <br>
 <strong>-Search and click on detail or click on delete button.</strong>
@@ -28,7 +28,7 @@ This project is a web application developed with Vue.js and Vue Router for navig
 
 <br>
 <img margin-top = "25px" src =  "https://github.com/sonaykara/number-of-characters-validate-js/assets/108528598/2d3074db-e7f7-45ff-b6fa-79ebdd07a57c" width="800" height = "500">
-
+<br>
 <strong>-Click the go home button to go to the home page.</strong>
 
 
